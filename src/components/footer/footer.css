@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  border-top: 2px solid var(--secondary);
+  background-color: var(--primary);
+  box-shadow: 0 -3px 4px rgba(0, 0, 0, 0.3);
+}
+
+.footer-text {
+  color: var(--text);
+  padding: 1.2rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.footer-link:hover {
+  opacity: 0.6;
+}
