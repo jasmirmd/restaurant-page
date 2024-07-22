@@ -1,7 +1,7 @@
 # Restarant Page
 A simple restaurant page, as a practice of webpack and javascript modules.
 
-## Live Demo:
+## Demo:
 
 ![demo](public/assets/images/demo.png)
 
