@@ -1,4 +1,4 @@
-# Restarant Page
+# Restaurant Page
 A simple restaurant page, as a practice of webpack and javascript modules.
 
 ## Demo:
